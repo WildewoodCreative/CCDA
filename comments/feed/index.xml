@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for CCDA	</title>
-	<atom:link href="/CCDA/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/CCDA</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 09 May 2022 20:16:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/CCDA/2022/05/09/hello-world/#comment-1</link>
+		<link>/2022/05/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 09 May 2022 20:16:56 +0000</pubDate>
