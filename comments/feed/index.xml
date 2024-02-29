@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for CCDA	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
-	<description>Quality Psychosocial Rehabilitation Services</description>
-	<lastBuildDate>Mon, 09 May 2022 20:16:56 +0000</lastBuildDate>
+	Comments for 	</title>
+	<atom:link href="/CCDAProof/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/CCDAProof/</link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Feb 2024 20:46:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
-	<item>
-		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/2022/05/09/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Mon, 09 May 2022 20:16:56 +0000</pubDate>
-		<guid isPermaLink="false">http:/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+</channel>
 </rss>
